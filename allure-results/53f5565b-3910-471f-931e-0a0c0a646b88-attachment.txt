@@ -1,0 +1,22 @@
+Search error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7bb14a8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff7bb14a950+14eb0]
+	chromedriver!(No symbol) [0x7ff7baebd6ed]
+	chromedriver!(No symbol) [0x7ff7baf16cfe]
+	chromedriver!(No symbol) [0x7ff7baf1700c]
+	chromedriver!(No symbol) [0x7ff7baf67cb7]
+	chromedriver!(No symbol) [0x7ff7baf6483b]
+	chromedriver!(No symbol) [0x7ff7baf090e8]
+	chromedriver!(No symbol) [0x7ff7baf09fc3]
+	chromedriver!GetHandleVerifier [0x7ff7bb460149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff7bb45a715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff7bb47c012+346572]
+	chromedriver!GetHandleVerifier [0x7ff7bb167cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff7bb17087c+3addc]
+	chromedriver!GetHandleVerifier [0x7ff7bb1540e4+1e644]
+	chromedriver!GetHandleVerifier [0x7ff7bb154296+1e7f6]
+	chromedriver!GetHandleVerifier [0x7ff7bb138737+2c97]
+	KERNEL32!BaseThreadInitThunk [0x7ff96570e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff966fec3fc+2c]
+
